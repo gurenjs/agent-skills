@@ -1,6 +1,6 @@
 {
   "name": "guren",
-  "version": "2.8.0",
+  "version": "2.9.1",
   "description": "Start a Guren app (Bun + Hono + Drizzle + Inertia, Laravel-shaped) and install its agent harness — guren context, guren check, guren audit.",
   "author": { "name": "Guren", "url": "https://guren.dev" },
   "homepage": "https://guren.dev",
