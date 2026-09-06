@@ -8,4 +8,4 @@ harness. Part of the `gurenjs` marketplace; see the
 - `guren-harness` — install or refresh the app's own harness
   (`bunx guren agent:init` / `agent:sync`) and follow its loop.
 
-Version `2.16.0`, generated from `@guren/cli`.
+Version `2.17.0`, generated from `@guren/cli`.
