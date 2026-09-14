@@ -45,7 +45,7 @@ This is deliberate: it stays version-matched to the app you are working in.
 
 ## Version
 
-This is version `2.23.1`, generated from `@guren/cli` 2.23.1.
+This is version `2.23.2`, generated from `@guren/cli` 2.23.2.
 It follows the CLI's releases.
 
 ## Generated — please do not open PRs here
